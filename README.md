@@ -52,7 +52,7 @@ The project includes the successful implementation of all **42 RV32I instruction
    Earlier versions of the **shifter module** produced incorrect outputs for shift-related instructions (`sll`, `srl`, `sra`). After debugging, the shifter logic was fixed and is now working as expected.
 
 4. **Data Memory Access**:  
-   The initial data memory implementation had issues with reading multiple addresses concurrently. This was resolved by implementing **two memory units**—one for instruction fetch and one for data memory—improving memory access efficiency and reducing latency.
+   The initial data memory implementation had issues with reading multiple addresses concurrently. This was resolved by implementing **two memory units** ; one for instruction fetch and one for data memory ; improving memory access efficiency and reducing latency.
 
 ---
 
