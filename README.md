@@ -5,9 +5,9 @@
 
 ## Submission Info
 - **Project**: RISC-V32 Processor  
-- **Milestone**: First  
+- **Milestone**: Three  
 - **Platform**: Verilog  
-- **Date Completed**: April 10, 2025
+- **Date Completed**: MAy 5, 2025
 
 ---
 # RISC-V32 Processor
