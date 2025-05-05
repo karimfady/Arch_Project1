@@ -1,0 +1,3 @@
+/Users/rodaynaelkhouly/Desktop/bonus_6/cmake-build-debug/CMakeFiles/bonus_6.dir
+/Users/rodaynaelkhouly/Desktop/bonus_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rodaynaelkhouly/Desktop/bonus_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

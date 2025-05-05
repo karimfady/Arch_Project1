@@ -1,0 +1,11 @@
+Generated Test Program:
+ADD x15, x9, x31
+LD x3, 1(x19)
+LD x1, 8(x5)
+ST x5, 3(x7)
+ADD x16, x14, x13
+ST x29, 8(x16)
+ADD x15, x24, x5
+LD x19, 2(x10)
+ST x9, 13(x7)
+ST x12, 3(x13)
